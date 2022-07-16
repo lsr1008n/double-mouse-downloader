@@ -13,8 +13,7 @@
 ## 支持操作系统
 
 - ✅ Windows 7/10/11 x64
-- Linux Desktop（开发中...）
-- MacOS（开发中... 其实是手头没 Mac 设备（悲））
+- ✅ MacOS（Apple 芯片）
 
 ## 特性
 
