@@ -1,8 +1,8 @@
 # 鼠鼠下载器
 
-![LOGO](./build-resources/icon.png)
+<em>跨平台哔哩哔哩视频下载工具。</em>
 
-跨平台哔哩哔哩视频下载工具。
+<img src="./build-resources/icon.png" width="128px" />
 
 ## 下载
 
