@@ -250,6 +250,7 @@ body {
 .resources-list > li {
   margin: 0;
   background-color: white;
+  box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.05);
   border-radius: 1em;
   padding: 2em;
 }
