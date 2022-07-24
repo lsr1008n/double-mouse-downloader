@@ -60,7 +60,7 @@ async function fetchReleaseInfoSwr(onDataUpdate) {
     localStorage.setItem(
       releaseInfoKey,
       JSON.stringify({
-        nextFetchTime: Date.now() + 1 * 60000,
+        nextFetchTime: Date.now() + 3 * 60000,
         data: resp,
       })
     );
